@@ -55,6 +55,7 @@ body {
 
 .large {
     font-size: 1.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .content {
@@ -119,6 +120,10 @@ body {
 
 .padding {
     padding: 1rem;
+}
+
+li {
+    padding-bottom: 1rem;
 }
 
 /*Header*/
